@@ -1,6 +1,6 @@
 # Reddit Comment Sentiment Analysis: A Comprehensive Research Report
 
-## 1. Executive Summary {#executive-summary}
+## 1. Executive Summary 
 
 This research report presents a detailed analysis of a Reddit Comment
 Sentiment Analysis project. The project aims to analyze the sentiment of
@@ -11,7 +11,7 @@ automatically categorize comments as positive, negative, or neutral.
 This report outlines the methodology, implementation, results, and
 potential future enhancements of the project.
 
-## 2. Introduction {#introduction}
+## 2. Introduction 
 
 2.1 Background
 
@@ -30,7 +30,7 @@ the sentiment of these comments - To visualize the sentiment
 distribution in an interactive and user-friendly manner - To provide a
 platform for easy analysis of Reddit comment sentiments
 
-## 3. Methodology {#methodology}
+## 3. Methodology 
 
 3.1 Data Collection
 
@@ -63,7 +63,7 @@ implemented: - A bar chart showing the count of comments in each
 sentiment category - A pie chart displaying the percentage distribution
 of sentiments
 
-## 4. Implementation {#implementation}
+## 4. Implementation 
 
 4.1 Technology Stack
 
@@ -84,7 +84,7 @@ Visualization Module: Creates interactive charts based on the analysis
 results - Web Interface Module: Provides a user-friendly interface for
 interaction with the tool
 
-## 5. Results and Analysis {#results-and-analysis}
+## 5. Results and Analysis 
 
 5.1 Performance Metrics
 
@@ -106,7 +106,7 @@ reception, with users finding the visualizations particularly helpful
 The following charts provide a visual representation of our sentiment
 analysis results:
 
-![](media/image1.png){width="6.5in" height="4.154861111111111in"}
+![](media/image1.png)
 
 Figure Distribution of Sentiment in Reddit Comments
 
@@ -114,7 +114,7 @@ This bar chart shows the count of comments for each sentiment category.
 We can see that positive comments are the most frequent, followed by
 neutral and then negative comments.
 
-![](media/image2.png){width="6.5in" height="4.154861111111111in"}
+![](media/image2.png)
 
 Figure Percentage Distribution of Sentiment in Reddit Comments
 
@@ -129,7 +129,7 @@ distribution in the analyzed Reddit comments.
 - The analysis is limited to English language comments
 - Very long comment threads may take considerable time to process
 
-## 6. Discussion {#discussion}
+## 6. Discussion 
 
 6.1 Insights Gained
 
@@ -159,7 +159,7 @@ distribution in the analyzed Reddit comments.
 - Trend Analysis: Tracking changes in sentiment over time for
   long-running discussions
 
-## 7. Future Recommendations {#future-recommendations}
+## 7. Future Recommendations 
 
 7.1 Technical Enhancements
 
@@ -187,7 +187,7 @@ distribution in the analyzed Reddit comments.
 - Batch processing capabilities for analyzing multiple posts
   simultaneously
 
-## 8. Conclusion {#conclusion}
+## 8. Conclusion 
 
 The Reddit Comment Sentiment Analysis project demonstrates the potential
 of automated sentiment analysis in understanding online discussions. By
@@ -198,7 +198,7 @@ While there are limitations to the current implementation, the project
 lays a solid foundation for future enhancements and more sophisticated
 analysis techniques.
 
-## 9. References {#references}
+## 9. References 
 
 1.  Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based
     Model for Sentiment Analysis of Social Media Text. Eighth
